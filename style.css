@@ -1,0 +1,39 @@
+* {
+    background-color: beige;
+    margin-left: 20px;
+}
+
+.recipe-list {
+    margin-left: -20px;
+    padding: 0;
+}
+
+img {
+    height: auto;
+    width: 500px;
+    border-style: solid;
+    border-radius: 30px;
+}
+
+.dish-name {
+    font-size: 48px;
+}
+
+h2 {
+    font-size: 36px;
+    margin-bottom: 10px;
+}
+
+p, li {
+    font-size: 24px;
+}
+
+p, ul {
+    margin-bottom: 35px;
+}
+
+.line-break {
+    height: 5px;
+    width: 1000px;
+    background-color: black;
+}
